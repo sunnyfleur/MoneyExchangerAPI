@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YrUOFNLb5Lcs/MR6d66wImRZok/PtfjdC0E3oD3/VNg=",
+  "Source": "MoneyExchangerAPI",
+  "BasePath": "_content/MoneyExchangerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
